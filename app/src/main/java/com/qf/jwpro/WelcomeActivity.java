@@ -3,6 +3,9 @@ package com.qf.jwpro;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
+/**
+ *
+ */
 public class WelcomeActivity extends AppCompatActivity {
 
     @Override
